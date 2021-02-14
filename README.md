@@ -2,5 +2,5 @@
 
 
 
-  <a href="https://www.logicbig.com/tutorials/java-ee-tutorial/jpa/images/jpa.png" width="320" alt="Nest Logo" /></a>
+ ![Logo of the project](https://www.logicbig.com/tutorials/java-ee-tutorial/jpa/images/jpa.png=CAU)
 
