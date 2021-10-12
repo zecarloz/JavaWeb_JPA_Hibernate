@@ -4,7 +4,7 @@
 
 ## Tecnologia utilizada : javaweb
 
-## Entendendo O.R.M (ORM).
+## Entendendo O.R.M (ORM)
 ### Obrigado pela visita 
 
 #### veja mais projetos em : https://github.com/zecarloz
